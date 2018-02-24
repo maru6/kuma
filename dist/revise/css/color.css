@@ -35,7 +35,7 @@
 #btn-close-x:hover,
 .box-fx .info
 {
-	background-color:#33abdb;
+	background-color:#f53a05;
 }
 
 a,
@@ -67,7 +67,7 @@ a.btn-border:after,
 .dark .btn-border:hover:after, .dark a.btn-border:hover:after, .dark a.btn-border.hover:after,
 a.btn-text:after
 {
-	color:#33abdb;
+	color:#f53a05;
 }
 
 .feature-box i,
@@ -86,32 +86,32 @@ a.btn-text:after
 .btn-border.hover,a.btn-border.hover
 {
 
-	border-color:#33abdb;
+	border-color:#f53a05;
 }
 
 .box-fx .inner,
 .dark .box-fx .inner{
-	border-bottom-color:#33abdb;
+	border-bottom-color:#f53a05;
 }
 
 .callbacks_nav {
-	background-color:#33abdb;
+	background-color:#f53a05;
 }
 
 .widget_category li{
-border-left:solid 3px #33abdb;
+border-left:solid 3px #f53a05;
 }
 
 .de_tab .de_nav li span {
-border-top: 3px solid #33abdb;
+border-top: 3px solid #f53a05;
 }
 
 .feature-box-big-icon i:after {
-border-color: #33abdb transparent; /*same colour as the lower of the bubble's gradient*/
+border-color: #f53a05 transparent; /*same colour as the lower of the bubble's gradient*/
 }
 
 .de_review li.active img{
-	border:solid 4px #33abdb;
+	border:solid 4px #f53a05;
 }
 
 .red{color:#ff0000 !important;}
